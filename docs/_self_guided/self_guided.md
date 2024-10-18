@@ -11,6 +11,8 @@ Self Guided material is static content provided by the Red Hat User Community or
 ### Informative Content
 
 * [Red Hat OpenShift Library](https://access.redhat.com/articles/7052429?extIdCarryOver=true&sc_cid=7013a000003ScmnAAC)
+* [OpenShift Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/)
+* [OpenShift Docs](https://docs.openshift.com/container-platform/latest/welcome/index.html)
 
 ### Instructive Content
 
