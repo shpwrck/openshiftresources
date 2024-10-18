@@ -1,8 +1,8 @@
 ---
-title: Blah
+title: Training
 author: Jason Skrzypek
 date: 2024-10-18
-category: sectionOne
+category: directed_open
 layout: post
 ---
 

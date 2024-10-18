@@ -2,7 +2,7 @@
 title: Documentation
 author: Jason Skrzypek
 date: 2024-10-18
-category: Documentation
+category: self_guided
 layout: post
 ---
 

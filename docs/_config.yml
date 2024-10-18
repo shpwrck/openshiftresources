@@ -33,19 +33,19 @@ toc:
   h_min: 1
   h_max: 3
 collections:
-  sectionOne:
+  self_guided:
     output: true
     permalink: /:collection/:path
-  sectionTwo:
+  directed_open:
     output: true
     permalink: /:collection/:path
-  Self Guided:
+  directed_closed:
     output: true
     permalink: /:collection/:path
 ordered_collections:
-  - sectionOne
-  - sectionTwo
-  - Self Guided
+  - self_guided
+  - directed_open
+  - directed_closed
 markdown: kramdown
 kramdown:
   auto_ids: true
