@@ -39,13 +39,13 @@ collections:
   sectionTwo:
     output: true
     permalink: /:collection/:path
-  sectionThree:
+  Self Guided:
     output: true
     permalink: /:collection/:path
 ordered_collections:
   - sectionOne
   - sectionTwo
-  - sectionThree
+  - Self Guided
 markdown: kramdown
 kramdown:
   auto_ids: true
