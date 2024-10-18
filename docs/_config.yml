@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "resources.k8socp.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: shpwrck/jekyll-gitbook
 syntax_highlighter_style: colorful
 toc:
   enabled: true
