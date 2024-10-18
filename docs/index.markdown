@@ -4,8 +4,10 @@ layout: home
 
 This website serves as a directory of resources available for OpenShift adoption.
 
-[Documentation](./_self_guided/Documentation.md)
+Generally speaking there are three categories:
 
-[Training](./_directed_open/Training.md)
+[Self Guided](./_self_guided/self_guided.md)
 
-[Certification](./_directed_closed/Certification.md)
+[Red Hat Guided (free)](./_directed_open/rh_guided_free.md)
+
+[Red Hat Guided (paid)](./_directed_closed/rh_guided_paid.md)
