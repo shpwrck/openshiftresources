@@ -35,13 +35,17 @@ toc:
 collections:
   sectionOne:
     output: true
-    permalink: /:collection/:title
+    permalink: /:collection/:path
   sectionTwo:
     output: true
-    permalink: /:collection/:title 
+    permalink: /:collection/:path
   sectionThree:
     output: true
-    permalink: /:collection/:title
+    permalink: /:collection/:path
+ordered_collections:
+  - sectionOne
+  - sectionTwo
+  - sectionThree
 markdown: kramdown
 kramdown:
   auto_ids: true
