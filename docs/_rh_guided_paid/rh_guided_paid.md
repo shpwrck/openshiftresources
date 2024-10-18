@@ -10,6 +10,8 @@ Red Hat Guided (Paid) materials are those provided by Red Hat with a specificall
 
 ### Informative Content
 
+* [OpenShift Support Cases](https://access.redhat.com/solutions/)
+
 ### Instructive Content
 
 * [OpenShift Courses with Exams](https://www.redhat.com/en/services/training/all-courses-exams?f[0]=taxonomy_product_tid:6921&f[1]=taxonomy_training_tid:1161)
