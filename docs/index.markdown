@@ -8,6 +8,7 @@ Generally speaking there are three categories:
 
 [Self Guided](./_self_guided/self_guided.md)
 
-[Red Hat Guided (free)](./_directed_open/rh_guided_free.md)
+[Red Hat Guided (free)](./_rh_guided_free/rh_guided_free.md)
 
-[Red Hat Guided (paid)](./_directed_closed/rh_guided_paid.md)
+[Red Hat Guided (paid)](./_rh_guided_paid/rh_guided_paid.md)
+
