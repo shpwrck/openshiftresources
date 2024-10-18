@@ -1,1 +1,1 @@
-# openshiftresources
+# OpenShift Adoption Resources
