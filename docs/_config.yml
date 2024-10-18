@@ -32,7 +32,26 @@ toc:
   enabled: true
   h_min: 1
   h_max: 3
-
+collections:
+  sectionOne:
+    output: true
+    permalink: /:collection/:path
+  sectionTwo:
+    output: true
+    permalink: /:collection/:path  
+  sectionThree:
+    output: true
+    permalink: /:collection/:path
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  input: GFM
+  math_engine: mathjax
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  toc_levels: 1..6
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    guess_lang: true
 
 plugins:
   - jekyll-feed
