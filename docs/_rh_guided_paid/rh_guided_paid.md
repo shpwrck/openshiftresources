@@ -19,3 +19,4 @@ Red Hat Guided (Paid) materials are those provided by Red Hat with a specificall
 ### Anecdotal Content
 
 [test](google.com)
+[test](google.com)
