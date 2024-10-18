@@ -36,16 +36,16 @@ collections:
   self_guided:
     output: true
     permalink: /:collection/:path
-  directed_open:
+  rh_guided_free:
     output: true
     permalink: /:collection/:path
-  directed_closed:
+  rh_guided_paid:
     output: true
     permalink: /:collection/:path
 ordered_collections:
   - self_guided
-  - directed_open
-  - directed_closed
+  - rh_guided_free
+  - rh_guided_paid
 markdown: kramdown
 kramdown:
   auto_ids: true
