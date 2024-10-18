@@ -1,5 +1,5 @@
 ---
-title: Section Three
+title: BlahBlahBlah
 author: Jason Skrzypek
 date: 2024-10-18
 category: sectionThree
