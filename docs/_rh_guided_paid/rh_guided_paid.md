@@ -19,6 +19,8 @@ Red Hat Guided (Paid) materials are those provided by Red Hat with a specificall
 * [Consulting Engagement](https://www.redhat.com/en/services/consulting)
     * [DEE](https://www.redhat.com/rhdc/managed-files/tr-improve-implementation-dedicated-enterprise-engineer-datasheet-1225509pr-202406-en_0.pdf)
 * [RedHat Open Innovation Labs](https://www.redhat.com/en/services/consulting/open-innovation-labs)
+* [Red Hat Consulting: Navigate](https://www.redhat.com/en/resources/digital-transformation-navigate-consulting-datasheet)
+
 
 ### Anecdotal Content
 
